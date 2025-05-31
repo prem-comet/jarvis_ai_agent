@@ -1,2 +1,2 @@
 # jarvis_ai_agent
-This is AI agent which talk as well as chat
+This is AI agent which speaks as well as chat
