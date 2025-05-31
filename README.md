@@ -38,6 +38,10 @@ import smtplib , ssl ( for email purpose )
 Other standard Python libraries (like wikipedia , time, etc.)
 
 
+
+
+// Flow Chart of this project is given below :-
+
 jarvis-ai-agent/
 │
 ├── main.py                # Entry point of the application
